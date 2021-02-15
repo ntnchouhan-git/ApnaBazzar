@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#239BFA</color>
+    <color name="colorPrimaryDark">#0897D8</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="Successgreen">#8BCA42</color>
+    <color name="Failurered">#FB3E31</color>
+    <color name="Darkblue">#12609E</color>
+    <color name="Ratinggreen">#76BD23</color>
+    <color name="Grey">#979797</color>
+    <color name="pink">#ED6492</color>
+    <color name="coupenPurple">#7E41EA</color>
+    <color name="coupenRedeemorange">#FFB03B</color>
+</resources>

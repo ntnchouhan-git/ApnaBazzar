@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDesrciptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:fontFamily="@font/open_sans"
+        android:lineSpacingExtra="8sp"
+        android:text="The iPhone X features a 28mm 12-megapixel camera with optical image stabilization, a wider f/1.8 aperture 6-element lens, wide color capture, and a revamped Apple image signal processor, all of which result in brighter, sharper, more detailed photos, even in low-light conditions."
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+</FrameLayout>
